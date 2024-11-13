@@ -34,3 +34,21 @@ This Repository will explain what I did for each Python Exercise Task<br/>
 - Step 2: Created an outer structure called all_recipes using a list structure because this structure will just house <br>
   all the new recipes, making it a list of dictionaries. If i had to find a recipe, I would first check each recipe by index <br>
   and then check the key "Name" to find what I'm looking for.
+
+## Exercise 1.3
+
+### Main Topics
+
+- Learned about different operator types of Python such as comparison and Boolean logic
+- Learned about if-else statements and loops.
+- Learned about creating functions.
+
+### Installations
+
+- None
+
+### Steps
+
+- Step 1: Created function take_recipe to take user input for a recipe of their choice.
+- Step 2: Created the main logic to ask user to create n recipes using take_recipes.
+- Step 3: Outputted recipe information as well as ingredients using logical operators.
